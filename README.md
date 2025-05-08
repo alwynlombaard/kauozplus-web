@@ -1,8 +1,8 @@
-# Privacy Policy for KauOzPlus
+# Privacy Policy for KAUozPlus
 Last Updated: May 8, 2025
 
 ## Introduction
-KauOzPlus is a mobile application developed by Alwyn Lombaard ("we," "us," or "our"). This Privacy Policy explains how we collect, use, store, and protect your data when you use KauOzPlus. Our app allows users to view their Kinesis holdings and market data for KAU (gold), KAG (silver) and other currencies using the Kinesis API.
+KAUozPlus is a mobile application developed by Alwyn Lombaard ("we," "us," or "our"). This Privacy Policy explains how we collect, use, store, and protect your data when you use KAUozPlus. Our app allows users to view their Kinesis holdings and market data for KAU (gold), KAG (silver) and other currencies using the Kinesis API.
 
 ## Data We Collect  
 Kinesis API Keys: You provide your Kinesis public and private API keys to authenticate with the Kinesis API.  
@@ -36,12 +36,12 @@ Since all data is stored locally on your device, you can remove it by deleting t
 We do not store your data on our servers, so there is no account to delete or data to request.
 
 ## Children’s Privacy
-KauOzPlus is not intended for use by children under the age of 18. We do not knowingly collect personal information from children under 18. If you believe we have collected such information, please contact us immediately.  
+KAUozPlus is not intended for use by children under the age of 18. We do not knowingly collect personal information from children under 18. If you believe we have collected such information, please contact us immediately.  
 
 ## Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. If changes are made, we will notify you by updating the date at the top of this policy and, if significant, through the app or our website.  
 
 ## Contact Us
 If you have questions or concerns about this Privacy Policy, please contact us at:
-[Your Email Address, e.g., support@lombaard.co.uk]
+support@lombaard.co.uk
 
