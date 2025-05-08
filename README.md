@@ -1,4 +1,4 @@
-# Privacy Policy for KAUozPlus
+//# Privacy Policy for KAUozPlus
 Last Updated: May 8, 2025
 
 ## Introduction
