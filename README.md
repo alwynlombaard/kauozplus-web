@@ -10,7 +10,7 @@ Kinesis API Keys: You provide your Kinesis public and private API keys to authen
 
 Holdings Data: We retrieve and display your KAU, KAG and other currency holdings, including amounts allocated on the Kinesis exchange.  
 
-Market Data: We fetch market snapshots (e.g., bid/ask prices, daily change, volume) and OHLC data for KAU and KAG in USD, GBP, and EUR.  
+Market Data: We fetch market snapshots (e.g., bid/ask prices, daily change, volume) and OHLC data for KAU, KAG and other currencies in USD, GBP, and EUR.  
 
 Device Information: We may collect device information (e.g., device ID, OS version) for crash reporting or analytics, if enabled.
 
