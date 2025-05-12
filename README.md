@@ -3,7 +3,7 @@
 Last Updated: May 8, 2025
 
 ## Introduction
-KAU-oz+ is a mobile application developed by Alwyn Lombaard ("we," "us," or "our"). This Privacy Policy explains how we collect, use, store, and protect your data when you use KAUozPlus. Our app allows users to view their Kinesis holdings and market data for KAU (gold), KAG (silver) and other currencies using the Kinesis API.
+KAU-oz+ is a mobile application developed by Alwyn Lombaard ("we," "us," or "our"). This Privacy Policy explains how we collect, use, store, and protect your data when you use KAU-oz+. Our app allows users to view their Kinesis holdings and market data for KAU (gold), KAG (silver) and other currencies using the Kinesis API.
 
 ## Data We Collect  
 Kinesis API Keys: You provide your Kinesis public and private API keys to authenticate with the Kinesis API.  
